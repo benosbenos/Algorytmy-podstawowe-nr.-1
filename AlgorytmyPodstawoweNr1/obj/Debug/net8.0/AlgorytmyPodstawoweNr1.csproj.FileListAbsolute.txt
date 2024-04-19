@@ -1,0 +1,14 @@
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\obj\Debug\net8.0\AlgorytmyPodstawoweNr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\obj\Debug\net8.0\AlgorytmyPodstawoweNr1.AssemblyInfoInputs.cache
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\obj\Debug\net8.0\AlgorytmyPodstawoweNr1.AssemblyInfo.cs
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\obj\Debug\net8.0\AlgorytmyPodstawoweNr1.csproj.CoreCompileInputs.cache
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\bin\Debug\net8.0\AlgorytmyPodstawoweNr1.exe
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\bin\Debug\net8.0\AlgorytmyPodstawoweNr1.deps.json
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\bin\Debug\net8.0\AlgorytmyPodstawoweNr1.runtimeconfig.json
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\bin\Debug\net8.0\AlgorytmyPodstawoweNr1.dll
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\bin\Debug\net8.0\AlgorytmyPodstawoweNr1.pdb
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\obj\Debug\net8.0\AlgorytmyPodstawoweNr1.dll
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\obj\Debug\net8.0\refint\AlgorytmyPodstawoweNr1.dll
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\obj\Debug\net8.0\AlgorytmyPodstawoweNr1.pdb
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\obj\Debug\net8.0\AlgorytmyPodstawoweNr1.genruntimeconfig.cache
+C:\Users\benos\source\repos\AlgorytmyPodstawoweNr1\AlgorytmyPodstawoweNr1\obj\Debug\net8.0\ref\AlgorytmyPodstawoweNr1.dll
